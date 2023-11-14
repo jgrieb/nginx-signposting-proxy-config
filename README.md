@@ -1,4 +1,4 @@
-# niginx-signposting-proxy-config
+# NGINX configuration to add Signposting to a SPA
 
 This project demonstrates based on an example how [Signposting](https://signposting.org/) can be added to a data portal where the frontend runs as a JavaScript based Single Page Application ([SPA](https://en.wikipedia.org/wiki/Single-page_application)).
 
